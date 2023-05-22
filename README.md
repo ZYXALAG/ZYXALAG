@@ -1,4 +1,4 @@
-📚 I'm currently in the first year of a BTS SIO at ICOF
+📚 I'm currently in the first year of a BTS SIO at ICOF \n
 🌱 I’m currently learning laravel
 
 ## 🌐 Socials:
