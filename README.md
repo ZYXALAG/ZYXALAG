@@ -1,5 +1,5 @@
-📚 I'm currently in the first year of a BTS SIO at ICOF </br>
-🌱 I’m currently learning laravel
+📚 <b>I'm currently in the first year of a BTS SIO at ICOF </br>
+🌱 I’m currently learning laravel</b>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ZYX#5036) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/zyxalag__) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@jevedormir) 
