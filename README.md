@@ -1,4 +1,4 @@
-📚 <b>I'm currently in the second year of a BTS SIO at ICOF </br>
+📚 <b>I'm currently developper at SAO France (Minecraft Server) </br>
 🌱 I’m currently learning react and next js</b>
 
 ## 🌐 Socials:
